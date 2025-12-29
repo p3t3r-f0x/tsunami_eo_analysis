@@ -9,6 +9,7 @@
   - pre_tsunami
   - eight_days_post_tsunami
   - one_month_post_tsunami
+    
   with satellite data including separate bands. If renamed, adjust analysis input in notebook.
   To recreate analysis previously done, these folders can be filled with the relevant Landsat 5 data IDs collected from https://earthexplorer.usgs.gov:
   - pre_tsunami: LS5 ID = LT05_L2SP_142053_20040202_20200904_02_T1_
