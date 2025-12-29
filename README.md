@@ -22,13 +22,3 @@
   - bands_for_classification = similar to above, list of band numbers used for classification, default set to all available bands.
   - band_dict = specifies band information for specific satellite data used, i.e. Landsat 5.
 7. To use the CNN_tool, the TerraFM-B.pth needs to be downloaded from https://huggingface.co/MBZUAI/TerraFM/tree/main to enable running of pretrained model. 
-
-
-
-
-
-
-
-
-ML_CNN_prototype...
-
